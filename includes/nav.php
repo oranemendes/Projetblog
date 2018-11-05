@@ -1,7 +1,7 @@
 <div id="navbar">
 <ul>
     <li><a href="#1">Blog</a></li>
-    <li><a href="#2">Look book</a></li>
+    <li><a href="../mainpage/lookbook.php">Look book</a></li>
     <li><a href="#3">Make-up</a></li>
     <li><a href="#4">Vlog</a></li>
     <li><a href="#5">Littérature</a></li>

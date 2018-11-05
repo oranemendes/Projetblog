@@ -6,7 +6,7 @@
     <meta charset="utf8" />
     <link rel="stylesheet" type="text/css" href="../css/style.css" />
     <link rel="stylesheet" type="text/css" href="../css/stylenav.css" />
-    <title>Orane MUA - Main page</title>
+    <title>Orane MUA - Administration</title>
 </head>
 
 <body>
