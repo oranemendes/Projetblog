@@ -3,6 +3,7 @@
 <head>
     <meta charset="utf8" />
     <link rel="stylesheet" type="text/css" href="style.css" />
+    <link rel="stylesheet" type="text/css" href="stylenav.css" />
     <title>Orane MUA - Main page</title>
 </head>
 
