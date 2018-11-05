@@ -1,12 +1,12 @@
 @font-face {
     font-family: 'GreatVibes';
-    src: url('polices/greatvibes/GreatVibes-Regular.otf');
+    src: url('../polices/greatvibes/GreatVibes-Regular.otf');
     font-weight: normal;
 }
 
 @font-face {
     font-family: 'CaviarDreams';
-    src: url('polices/caviardreams/CaviarDreams.ttf');
+    src: url('../polices/caviardreams/CaviarDreams.ttf');
 }
 
 .header{
@@ -38,7 +38,7 @@
 }
 
 .page{
-    background-image: url(img/background.jpg);
+    background-image: url(../img/background.jpg);
     max-width: 100%;
     height: auto;
     background-attachment: fixed;
