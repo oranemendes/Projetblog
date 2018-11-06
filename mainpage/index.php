@@ -20,7 +20,7 @@
 <nav><?php include('../includes/nav.php') ?> </nav>
 
         <?php
-        $req = $db->query('SELECT * FROM article');
+        $req = $db->query('SELECT * FROM article ORDER BY id DESC ');
         $articles = $req->fetchAll();
 
         foreach ($articles as $article): ?>
