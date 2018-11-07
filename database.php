@@ -1,4 +1,4 @@
 <?php
 
-$db = new PDO('mysql:host=localhost;dbname=projetblog', 'root', '');
+$db = new PDO('mysql:host=localhost;dbname=projetblog', 'root', 'root');
 $db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
