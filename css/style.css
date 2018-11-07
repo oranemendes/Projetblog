@@ -52,3 +52,23 @@ body{
 h1, h2, h3, h4, h5, h6{
     font-family: 'GreatVibes';
 }
+
+.container{
+    display: inline-flex;
+    flex-direction: row;
+    max-width: 30%;
+    padding-top: 20px;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+.card{
+    height: 300px;
+    overflow: scroll;
+    white-space: inherit;
+    text-overflow: ellipsis;
+}
+
+.card-text{
+   align-self: justify;
+}
