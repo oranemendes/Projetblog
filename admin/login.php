@@ -4,7 +4,7 @@
 <html>
 <head>
     <meta charset="utf8" />
-    <link rel="stylesheet" type="text/css" href="../css/style.css" />
+    <link rel="stylesheet" type="text/css" href="../css/style-largescreen.css" />
     <link rel="stylesheet" type="text/css" href="../css/stylenav.css" />
     <title>Orane MUA - Connexion</title>
 </head>

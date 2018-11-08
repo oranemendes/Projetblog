@@ -1,0 +1,101 @@
+@media screen and (min-width: 690px){
+
+    #navbar-large{
+        display: none;
+    }
+
+    #navbar-small{
+        display: block;
+        text-align: right;
+    }
+
+    .dropdown-menu{
+        text-align: right;
+        padding-right: 10px;
+        background-color: lightsalmon;
+    }
+
+    .dropdown-menu a{
+        color: black;
+    }
+
+    @font-face {
+        font-family: 'GreatVibes';
+        src: url('../polices/greatvibes/GreatVibes-Regular.otf');
+        font-weight: normal;
+    }
+
+    @font-face {
+        font-family: 'CaviarDreams';
+        src: url('../polices/caviardreams/CaviarDreams.ttf');
+    }
+
+    .header {
+        max-width: 100%;
+        height: auto;
+    }
+
+    #youtube, #facebook, #twitter, #instagram{
+        width: 50px;
+        margin-left: 5px;
+        margin-bottom: 5px;
+    }
+
+    #icons{
+        display: flex;
+        flex-direction: row-reverse;
+        padding-right: 20px
+        padding-bottom: 10px;
+    }
+
+    .articleblog{
+        border: 4px lightsalmon dashed;
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        padding: 10px;
+        text-align: justify;
+        background: rgba(255, 160, 122, .4);
+    }
+
+    .page{
+        background-image: url(../img/background.jpg);
+        max-width: 100%;
+        height: auto;
+        background-attachment: fixed;
+        background-position: bottom left;
+    }
+
+    body{
+        font-family: 'CaviarDreams';
+    }
+
+    h1, h2, h3, h4, h5, h6{
+        font-family: 'GreatVibes';
+    }
+
+    .container{
+        display: inline-flex;
+        flex-direction: row;
+        max-width: 38%;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+    .card{
+        height: 450px;
+        overflow: scroll;
+        white-space: inherit;
+        text-overflow: ellipsis;
+    }
+
+    .card-img-top{
+        max-width: auto;
+        max-height: auto;
+    }
+
+
+}

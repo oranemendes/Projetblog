@@ -4,7 +4,7 @@
 <html>
 <head>
     <meta charset="utf8" />
-    <link rel="stylesheet" type="text/css" href="../css/style.css" />
+    <link rel="stylesheet" type="text/css" href="../css/style-largescreen.css" />
     <link rel="stylesheet" type="text/css" href="../css/stylenav.css" />
     <title>Orane MUA - Main page</title>
 </head>
@@ -27,6 +27,7 @@
         <section class="articleblog">
             <h1><?= $article['name'] ?></h1>
 
+            <figure><img src="<?= $article['image'] ?>"</figure>
             <p><?= $article['content'] ?></p>
             <p>Publié par <?= $article['autor'] ?> le <?= $article['date'] ?></p>
         </section>
