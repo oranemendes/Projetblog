@@ -30,6 +30,7 @@ require_once '../database.php';
     <nav><?php include('../includes/nav.php') ?> </nav>
 
     <?php
+
     $req = $db->query('SELECT * FROM article WHERE category = "lookbook" ORDER BY id DESC');
     $articles = $req->fetchAll();
 
