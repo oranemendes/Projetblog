@@ -109,4 +109,20 @@
         border-top: dashed lightsalmon 3px;
     }
 
+    .on {
+        overflow: scroll;
+        max-height: 700px;
+        width: content-box;
+    }
+
+    .top{
+        position: fixed;
+        top: 0;
+
+    }
+
+    .content{
+        margin-top: 22%;
+    }
+
 }

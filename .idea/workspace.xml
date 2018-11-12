@@ -3,19 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="8ffffde0-8539-46c8-9651-cf533f7b43ad" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/indexadmin.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/indexadmin.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/login.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style-largescreen.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style-largescreen.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style-mediumscreen.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style-mediumscreen.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style-smallscreen.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style-smallscreen.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mainpage/blog.php" beforeDir="false" afterPath="$PROJECT_DIR$/mainpage/blog.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mainpage/cineseries.php" beforeDir="false" afterPath="$PROJECT_DIR$/mainpage/cineseries.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap-paginator.min.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/mainpage/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/mainpage/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mainpage/lifestyle.php" beforeDir="false" afterPath="$PROJECT_DIR$/mainpage/lifestyle.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mainpage/litterature.php" beforeDir="false" afterPath="$PROJECT_DIR$/mainpage/litterature.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mainpage/lookbook.php" beforeDir="false" afterPath="$PROJECT_DIR$/mainpage/lookbook.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mainpage/makeup.php" beforeDir="false" afterPath="$PROJECT_DIR$/mainpage/makeup.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mainpage/vlog.php" beforeDir="false" afterPath="$PROJECT_DIR$/mainpage/vlog.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,25 +40,29 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="8" />
+          <entry key="js" value="1" />
           <entry key="php" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="8" />
+          <entry key="JavaScript" value="1" />
           <entry key="PHP" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="1122" />
-          <entry key="php" value="5402" />
+          <entry key="css" value="1425" />
+          <entry key="js" value="9" />
+          <entry key="php" value="5505" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="1122" />
-          <entry key="PHP" value="5402" />
+          <entry key="CSS" value="1425" />
+          <entry key="JavaScript" value="9" />
+          <entry key="PHP" value="5505" />
         </counts>
       </usages-collector>
     </session>
@@ -108,19 +102,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mainpage/lookbook.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="90" selection-start-line="33" selection-start-column="90" selection-end-line="33" selection-end-column="90" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mainpage/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="825">
-              <caret line="55" column="54" lean-forward="true" selection-start-line="55" selection-start-column="54" selection-end-line="55" selection-end-column="54" />
+            <state relative-caret-position="780">
+              <caret line="52" column="6" selection-start-line="52" selection-start-column="6" selection-end-line="52" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -128,8 +113,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style-largescreen.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="885">
-              <caret line="59" column="16" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="16" />
+            <state relative-caret-position="1297">
+              <caret line="113" column="26" selection-start-line="113" selection-start-column="26" selection-end-line="113" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/infinitescroll.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -146,7 +140,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style-smallscreen.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="960">
+            <state relative-caret-position="757">
               <caret line="64" column="3" selection-start-line="64" selection-start-column="3" selection-end-line="67" selection-end-column="5" />
             </state>
           </provider>
@@ -158,6 +152,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -187,9 +182,10 @@
         <option value="$PROJECT_DIR$/admin/indexadmin.php" />
         <option value="$PROJECT_DIR$/css/style-smallscreen.css" />
         <option value="$PROJECT_DIR$/css/style-mediumscreen.css" />
-        <option value="$PROJECT_DIR$/css/style-largescreen.css" />
         <option value="$PROJECT_DIR$/mainpage/lookbook.php" />
         <option value="$PROJECT_DIR$/mainpage/index.php" />
+        <option value="$PROJECT_DIR$/css/style-largescreen.css" />
+        <option value="$PROJECT_DIR$/js/infinitescroll.js" />
       </list>
     </option>
   </component>
@@ -199,7 +195,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="243" />
     <option name="width" value="1440" />
     <option name="height" value="1769" />
@@ -257,11 +253,6 @@
             <path>
               <item name="Projetblog" type="b2602c69:ProjectViewProjectNode" />
               <item name="Projetblog" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Projetblog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Projetblog" type="462c0819:PsiDirectoryNode" />
               <item name="mainpage" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -314,18 +305,18 @@
       <workItem from="1541408412332" duration="19940000" />
       <workItem from="1541589376657" duration="5767000" />
       <workItem from="1541754084050" duration="3900000" />
-      <workItem from="1541758962673" duration="6331000" />
+      <workItem from="1541758962673" duration="9983000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50855000" />
+    <option name="totallyTimeSpent" value="54507000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-2" width="1440" height="2562" extended-state="6" />
+    <frame x="0" y="243" width="1440" height="1769" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26040173" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.26040173" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -338,13 +329,34 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.22547823" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.22547823" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26040173" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.22547823" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -439,27 +451,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style-largescreen.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="885">
-          <caret line="59" column="16" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style-mediumscreen.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="68" column="5" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style-smallscreen.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="64" column="3" selection-start-line="64" selection-start-column="3" selection-end-line="67" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mainpage/lookbook.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
@@ -474,10 +465,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/style-mediumscreen.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="68" column="5" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mainpage/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="55" column="54" lean-forward="true" selection-start-line="55" selection-start-column="54" selection-end-line="55" selection-end-column="54" />
+        <state relative-caret-position="780">
+          <caret line="52" column="6" selection-start-line="52" selection-start-column="6" selection-end-line="52" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style-smallscreen.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="757">
+          <caret line="64" column="3" selection-start-line="64" selection-start-column="3" selection-end-line="67" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style-largescreen.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1297">
+          <caret line="113" column="26" selection-start-line="113" selection-start-column="26" selection-end-line="113" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/infinitescroll.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
